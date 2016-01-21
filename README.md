@@ -14,8 +14,7 @@ this application locates other powders with similar burn rates and suggests a st
       
 ## __DISCLAIMER__
 
-*DISCLAIMER:* This application is a prototype developed for Coursera Data Products course and represents a concept for demonstration purposes. \
-RESULTS MUST NOT BE USED for actual cartridge loads.
+*DISCLAIMER:* This application is a prototype developed for Coursera Data Products course and represents a concept for demonstration purposes. RESULTS MUST NOT BE USED for actual cartridge loads.
 *DISCLAIMER:* The current starting charge model implementation uses a simple linear
 model over a range of powders with similar burn rates.
 Since the smokeless powder burn tables are only an unscaled, ordered ranking from fastest to slowest,
