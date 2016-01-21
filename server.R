@@ -3,7 +3,6 @@ library(shiny)
 cartridgeTagList = c("300Blk", "308Win", "300WinMag")
 
 readLoadDataFile <- function(tag) {
-  
   fileName = paste(tag,"StartingLoads.csv",sep = "")
   loadData <- read.csv(fileName, header = T)
 #   print("before cleaning")
@@ -21,14 +20,18 @@ readLoadDataFile <- function(tag) {
   loadData
 }
 
-initializePowderPredictor <- function (directory = "") {
-
+initializePowderRank <- function(directory = "") {
+  
   oldWD = getwd()
   setwd(ifelse(directory != "",directory,oldWD))
   powderRank <- read.csv("SmokelessPowdersRankedByBurnRate.csv",header = T, skip = 1)
   powderRank$Notes <- as.character(powderRank$Notes)
   powderRank$Product <- gsub("( |\\.|/|-)*","",as.character(powderRank$Product))
   powderRank$Manufacturer <- as.character(powderRank$Manufacturer)
+  powderRank
+}
+
+initializePowderPredictor <- function (directory = "") {
   #TBD: dynamic loading for load data by cartridge selection.
   #TBD: refactor data cleaning code: DONE
   AllLoads = readLoadDataFile(cartridgeTagList[1])
@@ -66,8 +69,8 @@ getStartLoadVel1 <- function(x,bulletMass,bulletType,bulletManufacturer) {
 }
 
 findOtherPowders <- function(range) {
-  if (length(range) > 1)   powderRank[range[1]:range[length(range)],c("Rank","Manufacturer","Product")]
-  else powderRank[range[1],c("Rank","Manufacturer","Product")]
+  if (length(range) > 1)   PowderRank[range[1]:range[length(range)],c("Rank","Manufacturer","Product")]
+  else PowderRank[range[1],c("Rank","Manufacturer","Product")]
 }
 
 
@@ -111,10 +114,12 @@ getBulletsForCartridge <- function(x,cartridge) {
   } 
 }
 
+
+PowderRank <- initializePowderRank() #reads powder rank data  from current dir
+RankedLoadData <- initializePowderPredictor() #reads load data files from current dir
+
 shinyServer(
   function(input, output) {
-    RankedLoadData <- initializePowderPredictor() #reads load data files from current dir
-    
     reactiveDataTable <- reactive({
       if (!is.null(input$bullet) && input$bullet != "" && !is.null(input$cartridge) && input$cartridge != "") 
         findPowdersForBullet(RankedLoadData[RankedLoadData$Cartridge == input$cartridge,], 
