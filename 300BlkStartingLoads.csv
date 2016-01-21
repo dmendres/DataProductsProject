@@ -1,0 +1,24 @@
+BulletMass,BulletManufacturer,BulletType,PowderManufacturer,PowderType,StartLoad,TestVelocity
+110,Hornady,V-Max,Accurate Arms,AAC-9,16.5,2201
+110,Barnes,TAC-TX,Hodgdon,H-110,16.5,2044
+125,Speer,TNT HP,Hodgdon,H-110,15.0,1810
+130,Hornady,SP,Hodgdon,Lil'Gun,15.0,1974
+150,Nosler,Ballistic Tip,Accurate Arms,AAC-9,14.2,1832
+150,Nosler,Ballistic Tip,Hodgdon,Lil'Gun,17.0,2033
+150,Nosler,Ballistic Tip,Hodgdon,H-110,16.0,1880
+150,Nosler,Ballistic Tip,Accurate Arms,AAC-1680,22.0,2050
+168,Sierra,BTHP,Hodgdon,Lil'Gun,14.0,1778
+168,Sierra,BTHP,Hodgdon,H-110,14.0,1648
+168,Sierra,BTHP,Accurate Arms,AAC-1680,18.5,1731
+180,Hornady,SST,IMR,IMR-4227,10.2,1040
+180,Hornady,SST,Accurate Arms,AAC-1680,13.4,1333
+190,Hornady,BTSP,Accurate Arms,AAC-9,7.8,1044
+190,Hornady,BTSP,IMR,IMR-4227,9.8,1029
+190,Hornady,BTSP,Accurate Arms,AAC-1680,12.9,1290
+195,Hornady,BTHP,Accurate Arms,AAC-9,8.4,1021
+195,Hornady,BTHP,Hodgdon,Lil'Gun,8.9,1116
+195,Hornady,BTHP,Accurate Arms,AAC-1680,13.0,1298
+208,Hornady,A-Max,Accurate Arms,AAC-9,7.2,913
+208,Hornady,A-Max,Accurate Arms,AAC-1680,10.4,987
+225,Hornady,BTHP Match,Accurate Arms,AAC-9,8.0,985
+225,Hornady,BTHP Match,Accurate Arms,AAC-1680,10.0,949

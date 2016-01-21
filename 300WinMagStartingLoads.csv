@@ -1,0 +1,195 @@
+BulletMass,BulletManufacturer,BulletType,PowderManufacturer,PowderType,StartLoad,TestVelocity
+110,Speer,SP,Hodgdon,H-1000,80.0,3189
+110,Speer,SP,Hodgdon,H-4831,79.0,3355
+110,Speer,SP,Hodgdon,H-4350,72.0,3337
+110,Speer,SP,Hodgdon,H-414,66.0,3330
+110,Speer,SP,Hodgdon,H-380,66.0,3282
+110,Speer,SP,Hodgdon,Varget,67.0,3424
+110,Speer,SP,Hodgdon,H-4895,60.0,3381
+110,Hornady,V-Max SP RN or FMJ,IMR,IMR-4064,55.7,3200
+110,Hornady,V-Max SP RN or FMJ,Alliant,RL-15,57.2,3200
+110,Hornady,V-Max SP RN or FMJ,Accurate Arms,AAC-4350,66.5,3200
+110,Hornady,V-Max SP RN or FMJ,IMR,IMR-4350,67.5,3200
+110,Hornady,V-Max SP RN or FMJ,Hodgdon,H-4350,65.1,3200
+110,Hornady,V-Max SP RN or FMJ,Alliant,Power Pro 2000-MR,63.3,3200
+110,Hornady,V-Max SP RN or FMJ,IMR,IMR-4007ssc,71.8,3200
+125,Barnes,XFB,Hodgdon,H-1000,80.0,3260
+125,Barnes,XFB,Hodgdon,H-4831,75.0,3286
+125,Barnes,XFB,Hodgdon,H-4350,68.0,3250
+125,Barnes,XFB,Hodgdon,H-414,65.0,3219
+125,Barnes,XFB,Hodgdon,H-380,62.0,3056
+125,Barnes,XFB,Hodgdon,Varget,65.0,3281
+125,Barnes,XFB,Hodgdon,H-4895,57.0,3140
+130,Hornady,SP,Hodgdon,H-1000,80.0,3125
+130,Hornady,SP,Hodgdon,H-4831,77.0,3116
+130,Hornady,SP,Hodgdon,H-4350,70.0,3219
+130,Hornady,SP,Hodgdon,H-414,67.0,3219
+130,Hornady,SP,Hodgdon,H-380,64.0,3111
+130,Hornady,SP,Hodgdon,Varget,64.0,3218
+130,Hornady,SP,Hodgdon,H-4895,58.0,3187
+150,Sierra,SP,Hodgdon,H-1000,80.0,3004
+150,Sierra,SP,Hodgdon,H-4831,73.0,3025
+150,Sierra,SP,Hodgdon,Hybrid 100V,67.0,3026
+150,Sierra,SP,Hodgdon,H-4350,68.0,3052
+150,Sierra,SP,Hodgdon,H-414,62.0,2973
+150,Sierra,SP,Hodgdon,H-380,62.0,2903
+150,Sierra,SP,Hodgdon,Varget,56.0,2952
+150,Sierra,SP,Hodgdon,H-4895,57.0,2991
+150,Barnes,TTSX BT,Hodgdon,H-4831,75.0,2985
+150,Barnes,TTSX BT,Hodgdon,Hybrid 100V,68.0,3140
+150,Barnes,TTSX BT,Hodgdon,H-4350,69.0,3062
+150,Barnes,TTSX BT,Hodgdon,H-414,65.0,3053
+150,Barnes,TTSX BT,Hodgdon,H-380,65.0,3030
+150,Barnes,TTSX BT,Hodgdon,H-4895,57.0,3006
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,IMR,IMR-4064,50.5,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Hodgdon,Varget,51.3,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,IMR,IMR-4350,60.3,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Accurate Arms,AAC-4350,60.6,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,IMR,IMR-4831,60.3,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Vihtavuori,VV-N165,64.4,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Winchester,WXR,66.1,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Alliant,RL-19,66.8,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Accurate Arms,AAC-3100,68.9,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Alliant,RL-22,69.5,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Accurate Arms,MAGPRO,68.5,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Hodgdon,H-4350,58.4,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Hodgdon,Hybrid 100V,63.5,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,IMR,IMR-4007ssc,63.8,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Alliant,RL-17,64.3,2800
+150,Hornady,GMX IB SST SP BTSP RN BT-FMJ A-Max,Winchester,Supreme 780,70.7,2800
+155,Sierra,HPBT,Hodgdon,H-1000,80.0,2992
+155,Sierra,HPBT,Hodgdon,H-4831,74.0,2964
+155,Sierra,HPBT,Hodgdon,Hybrid 100V,68.0,3049
+155,Sierra,HPBT,Hodgdon,H-4350,69.0,3013
+155,Sierra,HPBT,Hodgdon,H-414,67.0,2986
+155,Sierra,HPBT,Hodgdon,H-380,61.0,2869
+155,Sierra,HPBT,Hodgdon,Varget,55.0,2897
+155,Sierra,HPBT,Hodgdon,H-4895,55.0,2919
+165,Speer,SP,Hodgdon,H-1000,79.0,2957
+165,Speer,SP,Hodgdon,H-4831,72.0,2934
+165,Speer,SP,Hodgdon,Hybrid 100V,66.0,2905
+165,Speer,SP,Hodgdon,H-4350,66.0,2910
+165,Speer,SP,Hodgdon,H-414,61.0,2853
+165,Speer,SP,Hodgdon,H-380,59.0,2754
+165,Speer,SP,Hodgdon,Varget,54.0,2799
+165,Speer,SP,Hodgdon,H-4895,55.0,2839
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,IMR,IMR-4064,51.2,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,IMR,IMR-4350,58.1,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Accurate Arms,AAC-4350,60.1,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Hodgdon,H-4350,58.3,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,IMR,IMR-4831,58.3,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Vihtavuori,VV-N165,61.4,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Alliant,RL-19,64.9,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Winchester,WXR,61.8,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Accurate Arms,AAC-3100,66.5,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Alliant,RL-22,66.9,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,IMR,IMR-7828,67.8,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Hodgdon,Hybrid 100V,60.8,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Alliant,RL-17,61.7,2700
+165,Hornady,GMX IB SST SP BTSP A-Max or BTHP,Winchester,Supreme 780,67.7,2700
+168,Hornady,BTHP,Hodgdon,H-1000,79.0,2938
+168,Hornady,BTHP,Hodgdon,H-4831,72.0,2876
+168,Hornady,BTHP,Hodgdon,Hybrid 100V,65.0,2884
+168,Hornady,BTHP,Hodgdon,H-4350,66.0,2900
+168,Hornady,BTHP,Hodgdon,H-414,64.0,2873
+168,Hornady,BTHP,Hodgdon,H-380,59.0,2738
+168,Hornady,BTHP,Hodgdon,Varget,54.0,2795
+168,Hornady,BTHP,Hodgdon,H-4895,55.0,2843
+175,Sierra,HPBT,Hodgdon,H-1000,77.0,2820
+175,Sierra,HPBT,Hodgdon,H-4831,72.0,2843
+175,Sierra,HPBT,Hodgdon,Hybrid 100V,65.0,2837
+175,Sierra,HPBT,Hodgdon,H-4350,66.0,2832
+175,Sierra,HPBT,Hodgdon,H-414,63.0,2830
+180,Speer,MT SP,Hodgdon,US-869,86.0,2824
+180,Speer,MT SP,Hodgdon,H-1000,76.0,2883
+180,Speer,MT SP,Hodgdon,H-4831,69.0,2851
+180,Speer,MT SP,Hodgdon,Hybrid 100V,62.0,2775
+180,Speer,MT SP,Hodgdon,H-4350,63.0,2787
+180,Speer,MT-SP,Hodgdon,H-414,58.0,2722
+180,Nosler,E-Tip,Hodgdon,H-1000,74.6,2821
+180,Nosler,E-Tip,Hodgdon,H-4831,66.8,2770
+180,Nosler,E-Tip,Hodgdon,Hybrid 100V,58.9,2679
+180,Nosler,E-Tip,Hodgdon,H-4350,62.1,2730
+180,Nosler,E-Tip,Hodgdon,H-414,60.0,2760
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Accurate Arms,AAC-4350,57.5,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Hodgdon,H-4350,58.2,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Vihtavuori,VV-N165,56.6,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Winchester,WXR,57.9,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Winchester,WMR,61.3,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Vihtavuori,VV-N560,61.1,250
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Alliant,RL-22,63.5,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Accurate Arms,MAGPRO,60.0,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Accurate Arms,AAC-3100,61.8,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Hodgdon,H-4831,61.9,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,IMR,IMR-7828,64.2,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Alliant,RL-25,64.8,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Hodgdon,Hybrid 100V,58.3,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Alliant,RL-17,58.3,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Alliant,Power Pro 4000-MR,64.7,2500
+180,Hornady,A-Max BTHP IB SST SP BTSP or RN,Winchester,Supreme 780,63.7,2500
+190,Hornady,BTSP,Hodgdon,H-1000,76.0,2822
+190,Hornady,BTSP,Hodgdon,H-4831,69.0,2795
+190,Hornady,BTSP,Hodgdon,Hybrid 100V,63.5,2811
+190,Hornady,BTSP,Hodgdon,H-4350,63.0,2735
+190,Hornady,BTSP,Accurate Arms,AAC-4350,58.0,2500
+190,Hornady,BTSP,IMR,IMR-4831,59.4,2500
+190,Hornady,BTSP,Winchester,WXR,58.4,2500
+190,Hornady,BTSP,Vihtavuori,VV-N560,57.6,2500
+190,Hornady,BTSP,Winchester,WMR,59.5,2500
+190,Hornady,BTSP,Alliant,RL-22,63.7,2500
+190,Hornady,BTSP,Hodgdon,H-4831,63.6,2500
+190,Hornady,BTSP,Accurate Arms,AAC-3100,63.4,2500
+190,Hornady,BTSP,IMR,IMR-7828,63.7,2500
+190,Hornady,BTSP,Alliant,RL-25,65.3,2500
+190,Hornady,BTSP,Hodgdon,H-1000,66.8,2500
+190,Hornady,BTSP,Hodgdon,Hybrid 100V,59.0,2500
+190,Hornady,BTSP,Alliant,RL-17,57.5,2500
+190,Hornady,BTSP,Alliant,Power Pro 4000-MR,61.3,2500
+190,Hornady,BTSP,Winchester,Supreme 780,62.1,2500
+200,Nosler,Part,Hodgdon,US-869,83.0,2657
+200,Nosler,Part,Hodgdon,Retumbo,79.0,2798
+200,Nosler,Part,Hodgdon,H-1000,74.0,2725
+200,Nosler,Part,Hodgdon,H-4831,67.0,2686
+200,Nosler,Part,Hodgdon,Hybrid 100V,61.0,2636
+200,Nosler,Part,Hodgdon,H-4350,63.0,2646
+200,Nosler,AB,Hodgdon,Retumbo,73.0,2703
+200,Nosler,AB,Hodgdon,H-1000,72.0,2662
+200,Nosler,AB,Hodgdon,H-4831,67.0,2686
+200,Nosler,AB,Hodgdon,Hybrid 100V,61.0,2561
+200,Nosler,AB,Hodgdon,H-4350,60.0,2576
+208,Hornady,A-Max,Hodgdon,Retumbo,74.5,2717
+208,Hornady,A-Max,Hodgdon,H-1000,71.7,2650
+208,Hornady,A-Max,Hodgdon,H-4831,66.5,2671
+208,Hornady,A-Max,Hodgdon,Hybrid 100V,61.4,2620
+208,Hornady,A-Max,Hodgdon,H-4350,60.4,2655
+208,Hornady,A-Max or BTHP,Hodgdon,H-4350,55.6,2400
+208,Hornady,A-Max or BTHP,IMR,IMR-4350,56.5,2400
+208,Hornady,A-Max or BTHP,Ramshot,Hunter,56.9,2400
+208,Hornady,A-Max or BTHP,IMR,IMR-4831,58.0,2400
+208,Hornady,A-Max or BTHP,Vihtavuori,VV-N160,57.1,2400
+208,Hornady,A-Max or BTHP,Accurate Arms,AAC-3100,59.7,2400
+208,Hornady,A-Max or BTHP,Alliant,RL-22,59.2,2400
+208,Hornady,A-Max or BTHP,Hodgdon,H-4831sc,60.1,2400
+208,Hornady,A-Max or BTHP,IMR,IMR-7828ssc,61.8,2400
+220,Sierra,RN,Hodgdon,US-869,82.0,2578
+220,Sierra,RN,Hodgdon,Retumbo,76.0,2646
+220,Sierra,RN,Hodgdon,H-1000,73.0,2588
+220,Sierra,RN,Hodgdon,H-4831,66.0,2533
+220,Sierra,RN,Hodgdon,Hybrid 100V,61.0,2474
+220,Sierra,RN,Hodgdon,H-4350,61.0,2501
+220,Hornady,RN,Alliant,RL-17,54.4,2300
+220,Hornady,RN,Alliant,Power Pro 4000-MR,61.0,2300
+220,Hornady,RN,Winchester,Supreme 780,63.0,2300
+220,Hornady,RN,IMR,IMR-4831,57.0,2300
+220,Hornady,RN,Vihtavuori,VV-N560,57.4,2300
+220,Hornady,RN,Accurate Arms,AAC-3100,60.3,2300
+220,Hornady,RN,Alliant,RL-22,61.5,2300
+220,Hornady,RN,Hodgdon,H-4831,60.8,2300
+220,Hornady,RN,IMR,IMR-7828,62.1,2300
+220,Hornady,RN,Alliant,RL-25,66.5,2300
+220,Hornady,RN,Hodgdon,H-1000,64.2,2300
+230,Berger,Tact,Hodgdon,US-869,77.7,2423
+230,Berger,Tact,Hodgdon,Retumbo,71.6,2520
+230,Berger,Tact,Hodgdon,H-1000,69.1,2471
+230,Berger,Tact,Hodgdon,H-4831,64.1,2527
+230,Berger,Tact,Hodgdon,Hybrid 100V,69.6,2467

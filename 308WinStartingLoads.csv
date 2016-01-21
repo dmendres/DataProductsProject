@@ -1,0 +1,40 @@
+BulletMass,BulletManufacturer,BulletType,PowderManufacturer,PowderType,StartLoad,TestVelocity
+150,Hornady,Spire Point,Hodgdon,H-4895,41.0,2444
+150,Hornady,Spire Point,IMR,IMR-4064,41.0,2454
+150,Hornady,Spire Point,Alliant,RL-15,41.0,2321
+155,Hornady,A-Max,Winchester,W-748,39.5,2438
+155,Hornady,A-Max,Vihtavuori,VV-N150,37.6,2200
+155,Hornady,A-Max,Alliant,RL-15,37.9,2401
+155,Hornady,A-Max,Vihtavuori,VV-N140,37.6,2333
+155,Hornady,A-Max,Hodgdon,Varget,37.6,2361
+155,Hornady,A-Max,IMR,IMR-4895,37.6,2352
+155,Hornady,A-Max,Accurate Arms,AAC-2520,37.0,2427
+155,Hornady,A-Max,Accurate Arms,AAC-2495,36.7,2325
+155,Hornady,A-Max,IMR,IMR-4064,37.9,2349
+155,Hornady,A-Max,Hodgdon,H-4895,37.2,2415
+155,Hornady,A-Max,Vihtavuori,VV-N135,35.8,2354
+168,Hornady,A-Max or BTHP,Winchester,W-748,38.0,2289
+168,Hornady,A-Max or BTHP,Vihtavuori,VV-N150,37.5,2203
+168,Hornady,A-Max or BTHP,Vihtavuori,VV-N140,37.2,2280
+168,Hornady,A-Max or BTHP,Alliant,RL-15,37.5,2317
+168,Hornady,A-Max or BTHP,IMR,IMR-4064,36.1,2152
+168,Hornady,A-Max or BTHP,IMR,IMR-4895,36.0,2217
+168,Hornady,A-Max or BTHP,Accurate Arms,AAC-2495,34.9,2163
+168,Hornady,A-Max or BTHP,Hodgdon,Varget,35.5,2181
+168,Hornady,A-Max or BTHP,Accurate Arms,AAC-2520,35.3,2329
+168,Hornady,A-Max or BTHP,Hodgdon,H-4895,34.8,2260
+168,Hornady,A-Max or BTHP,Vihtavuori,VV-N135,34.2,2250
+178,Hornady,A-Max or BTHP,Hodgdon,BL-C(2),36.9,2218
+178,Hornady,A-Max or BTHP,Winchester,W-748,36.1,2188
+178,Hornady,A-Max or BTHP,Vihtavuori,VV-N150,34.0,2039
+178,Hornady,A-Max or BTHP,Vihtavuori,VV-N140,34.8,2155
+178,Hornady,A-Max or BTHP,Alliant,RL-15,34.8,2198
+178,Hornady,A-Max or BTHP,Hodgdon,Varget,33.0,2051
+178,Hornady,A-Max or BTHP,Accurate Arms,AAC-2520,33.1,2222
+178,Hornady,A-Max or BTHP,IMR,IMR-4895,34.5,2140
+178,Hornady,A-Max or BTHP,IMR,IMR-4064,33.6,2030
+178,Hornady,A-Max or BTHP,Hodgdon,H-4895,34.5,2189
+178,Hornady,A-Max or BTHP,Vihtavuori,VV-N135,31.4,2069
+180,Nosler,Ballistic Tip,Hodgdon,H-4895,41.0,2472
+180,Nosler,Ballistic Tip,IMR,IMR-4064,41.0,2388
+180,Nosler,Ballistic Tip,Alliant,RL-15,41.0,2331
