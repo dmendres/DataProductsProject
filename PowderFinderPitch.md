@@ -2,7 +2,7 @@ Powder Finder
 PowderFinder: filling in the blanks in your load data
 ========================================================
 author: dmendres
-date: Fri Jan 22 10:07:12 2016
+date: Sun Jan 24 10:31:47 2016
 
 
 The Problem
@@ -12,7 +12,7 @@ Hand-loading metallic cartridges for rifles and handguns is a popular hobby in t
 
 The problem? Finding safe "recipes" to match the components at hand (powder type, primer, and bullets for a given cartridge).
 - Load data requires extensive testing in pressure barrels
-- The data is developed by component vendors, so they tend to cover one vendor's bullets or one brand of powders.
+- The data is developed by component vendors, so publications tend to cover one vendor's bullets or one brand of powders.
 - Even the bullet manufacturers don't have the resources to test all appropriate powders.
 - Collections only consolidate vendor-published data, with gaps.
 - For example, the powder ranking table has 117 different powders, but our test data (albeit limited to a few cartridges) references a grand total of 24 powders!
@@ -23,10 +23,10 @@ The Solution
 
 [PowderFinder](https://dmendres.shinyapps.io/DataProductsProject) is a Shiny web-app which can suggest alternate powders and starting loads!
 
-- Published tables rank and compare smokeless powders by burn rate, so similar burn rates are, within limits, interchangable, [for example, see the ADI equivalents table ](http://www.adi-powders.com.au/handloaders/equivalents.asp).
-- PowderFinder uses the documented recipes and and smokless powder characteristics (burn rate, density and other predictors) to suggest alternate powders.
-- PowderFinder builds regression models from these predictors to predict starting loads for the suggested powders.
-- **DISCLAIMER all load information presented here and in the PowderFinder app is illustration of proof of concept and must not be used for actual cartridge loads. Check all loads against published sources!**
+- Published tables rank and compare smokeless powders by burn rate [for example, see the ADI equivalents table ](http://www.adi-powders.com.au/handloaders/equivalents.asp).
+- PowderFinder uses the documented recipes and and smokless powder characteristics (burn rate, density and other predictors) to suggest alternate powders for further research.
+- PowderFinder builds regression models from the predictors to predict starting loads for the suggested powders.
+- **WARNING all load information presented here and in the PowderFinder app is illustration of proof of concept and must not be used for actual cartridge loads. Check all loads against published sources! Do not use burn rate tables to substitute powders.**
 
 
 PowderFinder fills in the gaps
