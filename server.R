@@ -1,4 +1,5 @@
 library(shiny)
+library(ggplot2)
 
 cartridgeTagList = c("300Blk", "308Win", "300WinMag")
 
@@ -42,7 +43,7 @@ initializePowderPredictor <- function (directory = "") {
     AllLoads = rbind(AllLoads,loadData)
   }
   # print(AllLoads)
-  RankedLoadData <-  merge(AllLoads,powderRank,
+  RankedLoadData <-  merge(AllLoads,PowderRank,
                            by.x=c("PowderManufacturer", "PowderType"),
                            by.y = c("Manufacturer","Product"))
   # print(RankedLoadData)
@@ -84,8 +85,9 @@ findPowdersForBullet <- function(x,bulletMass) {
                          getStartLoadVel(x,getBulletsInfo(x,bulletMass)[ii,]))
     }
   }
+  # browser()
   startLoads$Interpolated <- FALSE
-  if (dim(startLoads)[1] > 0) { ###TODO: THIS WILL SUPPRESS SOME SINGLETON RESULTS!
+  if (dim(startLoads)[1] > 0) { 
     # print(startLoads)
     interpolatedLoads =  findOtherPowders(getPowderRange(x,bulletMass))
     loadsDF = merge(
@@ -102,7 +104,7 @@ findPowdersForBullet <- function(x,bulletMass) {
       loadModel = lm(StartLoad ~ Rank, data = loadsDF[-naLoads,])
       loadsDF[naLoads,"StartLoad"] = predict(loadModel, newdata = loadsDF[naLoads,])
       loadsDF$StartLoad = round(loadsDF$StartLoad,1)
-    } else loadsDF <- NULL
+    } 
     loadsDF
   }
 }
